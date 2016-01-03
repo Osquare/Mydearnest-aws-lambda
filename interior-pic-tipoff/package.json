@@ -1,0 +1,16 @@
+{
+  "name": "interior-pic-tipoff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lawrence, Ahn",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^1.11.0",
+    "nodemailer-ses-transport": "^1.3.0"
+  },
+  "devDependencies": {},
+  "description": "Interior Picture Tipoff for Mydearnest"
+}

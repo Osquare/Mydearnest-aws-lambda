@@ -1,0 +1,13 @@
+{
+  "aws": {
+    "accessKeyId": "AWS.ACCESS.KEY.ID}",
+    "secretAccessKey": "AWS.SECRET.ACCESS.KEY",
+    "region": "us-west-2"
+  },
+  "mail": {
+    "from": "osquare.tipoff@gmail.com",
+    "to": "osquare.tipoff@gmail.com",
+    "cc": "lawrence@osquarecorp.com, skullacy@osquarecorp.com",
+    "subject": "[사진 제보] 유저의 인테리어 사진 제보가 도착했습니다!"
+  }
+}
